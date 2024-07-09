@@ -36,3 +36,4 @@ Used in College premises in casual events like practical exam or online activiti
 ii) The same issue like with IT industry the work might  be assigned to every individual employee .Sometimes it is necessary to check whether employee is doing anything other than it, at that moment of time Manager can use our application .
 
 
+# PC_Monitoring
